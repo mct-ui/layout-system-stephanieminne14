@@ -269,6 +269,10 @@ a:hover, a:focus {
   justify-content: space-between;
 }
 
+.o-layout--justify-space-evenly {
+  justify-content: space-evenly;
+}
+
 /* Vertical item alignment modifiers */
 
 .o-layout--align-start {
